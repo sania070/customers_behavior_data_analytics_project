@@ -1,0 +1,173 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="OtTMtMPgagfFAoUoKQUY">
+    <mxGraphModel dx="1396" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="1110" width="620" x="115" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-37" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=31;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;Data Analysis using SQL&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt; &lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(Business Transactions)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="490" x="190" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-39" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-48" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Revenue by Gender&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="180" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-45" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-56" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Customer Segmentation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="170" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-44" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-55" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Discount-Dependent Products&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="150" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-43" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-54" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Subscribers vs. Non-Subscribers&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="145" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-41" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-51" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KVedVJGaBpkxh-HVNIHl-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Top 5 Products by Rating &lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="170" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-42" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-53" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Shipping Type Comparison&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="160" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-40" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-50" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;High-Spending Discount Users&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="150" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-47" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-58" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Repeat Buyers &amp;amp; Subscriptions&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="150" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-46" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVedVJGaBpkxh-HVNIHl-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-57" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Top 3 Products per Category&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="160" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-59" edge="1" parent="1" source="KVedVJGaBpkxh-HVNIHl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="KVedVJGaBpkxh-HVNIHl-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Revenue by Age Group&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="175" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;align=left;" value="" vertex="1">
+          <mxGeometry height="50" width="220" x="450" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="65" width="210" x="450" y="317.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="190" x="450" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="240" x="450" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="45" width="210" x="450" y="627.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="220" x="450" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="65" width="250" x="450" y="817.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="190" x="450" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="230" x="450" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;&quot;&gt;Compared &lt;i&gt;total revenue&lt;/i&gt; generated by &lt;i&gt;male vs. female&lt;/i&gt; customers.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="460" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Identified customers who used discounts but still&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;spent above the &lt;i&gt;average purchase amount&lt;/i&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="192.5" x="458.75" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Found products with the highest &lt;i&gt;average review ratings&lt;/i&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="185" x="457.5" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Compared average purchase amounts between&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Standard&lt;/b&gt; and &lt;b&gt;Express&lt;/b&gt; shipping.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="460" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Compared &lt;i&gt;average spend&lt;/i&gt; and&lt;i&gt; total revenue&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;across subscription status.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="460" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Identified &lt;b&gt;5 products&lt;/b&gt; with the highest percentage of discounted purchases.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="460" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Classified customers into &lt;b&gt;New, Returning, and Loyal&lt;/b&gt; segments based on purchase history.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="232.5" x="458.75" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Listed the most purchased products within each category.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="460" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Checked whether customers with &lt;b&gt;&amp;gt;5&lt;/b&gt; purchases are more likely to subscribe.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="460" y="1035" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="220" x="450" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Calculated total revenue contribution of each age group." vertex="1">
+          <mxGeometry height="30" width="202.5" x="460" y="1135" as="geometry" />
+        </mxCell>
+        <mxCell id="KVedVJGaBpkxh-HVNIHl-63" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAlgAAAE7CAMAAAA2MA+HAAACalBMVEUAAAAAfr7///8Ab7////8AdMn///8hdMn///8Ydcb///8fc8X////+/v4AccMAc8f+/v8id8j+/v4YdMcddsb////+/v4AccUpd8evwOEAcsQnd8VYicr9/f4AccYkdsf+/v7///8jdMaou90AccX///8qd8f+/v4peMcAcsb+/v7F0Ocmd8j+/v4Accf+/v4ldscAcsb+/v4jdsf+/v4AccYAcsX+/v4peMYAcsb+/v4od8cAcsb+/v4md8cAcsb+/v7+/v4AccYldsckd8b+/v4AcsUod8b+/v7+/v4nd8cAccb+/v6Qqti101PE2pL3+vPJ3Z/P2Ouszm3i7dqszivz9fmqzChHgcqXxB0Nc8bx9uusz4rB2avd6seiyVfG0ejw8viz0S6Yr9quzyvF3LHY3++bsdvI3Ju9yuXAzOb9/vzl7tW10jT6/PjM36R/ugDR4rGLvkfs7/aXxGPZ57+00ka41DKv0C30+PDU3O37+/z////v9Om61nHg5vIyesiJpda102HZ58zJ3rfv8vgAcsZ4mtKly3+y0US00jomd8e3xuSexyGiySPQ4cDg5fLM37vF0OhvldC31GFWiMzs8+OLvxC51WqTrNi20jBejM19ndOcx27p8dz6+/yAn9S8yeXc4vCftNy10liCuwVpks+100yluN5QhcvBzeanut7o7PWRwleqvN/n8OC916WtvuB0mNGwwOE/fsnh687T2+2ywuHO4az3+Pu41Z+GvgumyyZjj87C2YybxR7V5Li/2H+VwxqFotWz0UCQwReFvDLi7NPk6fNuldDB2YjK1OqNqNe91nl4FOjzAAAATXRSTlMABgcODxYXHx8nJy8vNzc/Pz9HR09PV1dYXV9gZGhsbW93eH1+f4CGh4uOkZWWmp6fpqarrq62tre+vr/GxsjOztbW1t7e4ubm7vH19hngDL0AAAAJcEhZcwAACxMAAAsTAQCanBgAABLZSURBVHic7Z39f1TFvceJ2Fhb2wRFvNdcULwsilelWiySXKgPCJZHTXVJJeYSo4HEBtBciTUDSUpz0ssmdkMN8iTJbto1kC1RgsFVEnlwS9Is/9N9bUJIds/MnLMPc+acmc/7R7O77M68nZnzne98Z948kEJhcfHDPp+v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;" value="" vertex="1">
+          <mxGeometry height="57.5" width="109.52" x="130" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
